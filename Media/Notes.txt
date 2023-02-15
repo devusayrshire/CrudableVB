@@ -1,0 +1,10 @@
+Add - Project References
+
+	- Microsoft ActiveX Data Objects 2.7 Library
+	- Microsoft Data Formatting Object Library
+	- Microsoft Data Report Designer v6.0
+
+Add - Components
+
+	- Microsoft Windows Common Controls 6.0 (SP6)
+	- Microsoft Windows Common Controls-2 6.0
