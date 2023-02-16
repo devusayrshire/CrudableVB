@@ -71,14 +71,13 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
+
 Option Explicit
 
 Public LoginSucceeded As Boolean
 Dim invalidpw As Integer
 
-Private Sub cmdCancel_Click()
-    'set the global var to false
-    'to denote a failed login
+Private Sub CmdCancel_Click()
     LoginSucceeded = False
     Unload Me
 End Sub
